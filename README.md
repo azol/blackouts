@@ -1,6 +1,6 @@
 # blackouts
 
-A new Flutter project.
+The app to track scheduled blackouts in Kaliningrad.
 
 ## Getting Started
 
